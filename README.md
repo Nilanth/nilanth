@@ -1,4 +1,9 @@
-### Hi there, I am Nilanth 👋
+
+[![Nilanth](https://github.com/Nilanth/nilanth/blob/main/nilanth-bg.png)](https://twitter.com/nilanth)
+
+### Hi there 👋
+
+- ⚡ Read my blogs at [Medium](http://nilanth.medium.com)
 
 - 🔭 I’m currently working on React, Gatsby, javascript, PostgreSQL, Laravel.
 
