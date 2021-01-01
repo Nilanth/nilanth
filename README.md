@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on React, Gatsby, javascript, PostgreSQL, Laravel.
 
-- 📫 How to reach me: @nilanth
+- 📫 How to reach me: [@nilanth](https://twitter.com/nilanth)
 
 <!--
 **Nilanth/nilanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
