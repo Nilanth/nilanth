@@ -3,9 +3,9 @@
 
 ### Hi there 👋
 
-- ⚡ Read my blogs at [Medium](http://nilanth.medium.com)
+- ⚡ Read my stories at [Medium](http://nilanth.medium.com)
 
-- 🔭 I’m currently working on React, Gatsby, javascript, PostgreSQL, Laravel.
+- 🔭 I’m currently working on React, Gatsby, javascript, Laravel, PostgreSQL.
 
 - 📫 Send me a message [@nilanth](https://twitter.com/nilanth)
 
