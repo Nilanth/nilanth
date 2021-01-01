@@ -1,5 +1,5 @@
 
-[![Nilanth](https://github.com/Nilanth/nilanth/blob/main/nilanth-bg.png)](https://twitter.com/nilanth)
+[![Nilanth](https://github.com/Nilanth/nilanth/blob/main/bg.png)](https://twitter.com/nilanth)
 
 ### Hi there 👋
 
