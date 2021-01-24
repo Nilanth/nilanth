@@ -5,7 +5,7 @@
 
 - ⚡ Read my stories at [Medium](http://nilanth.medium.com)
 
-- 🔭 I’m currently working on React, Gatsby, javascript, Laravel, PostgreSQL.
+- 🔭 I’m currently working on React, Laravel, PostgreSQL.
 
 - 📫 Send me a message [@nilanth](https://twitter.com/nilanth)
 
