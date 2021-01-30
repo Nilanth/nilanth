@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Nilanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilanth)](https://github.com/nilanth)
+[![Nilanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilanth&show_icons=true)](https://github.com/nilanth)
