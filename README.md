@@ -1,5 +1,5 @@
 
-[![Nilanth](https://github.com/Nilanth/nilanth/blob/main/bg-1500px.png)](https://twitter.com/nilanth)
+[![Nilanth](https://github.com/Nilanth/nilanth/blob/main/nilanth.png)](https://twitter.com/nilanth)
 
 <a href="mailto:nilaanth@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
 <a href="https://www.twitter.com/nilanth"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=30></a>
