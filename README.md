@@ -8,7 +8,7 @@
 
 - ⚡ Read my stories at [Medium](http://nilanth.medium.com)
 
-- 🔭 I’m currently working on React, Laravel, PostgreSQL.
+- 🔭 I’m currently working on React, NextJS, Laravel, PostgreSQL.
 
 - 📫 Send me a message [@nilanth](https://twitter.com/nilanth)
 
